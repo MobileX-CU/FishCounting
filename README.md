@@ -1,6 +1,6 @@
 # FishCounting
 
-credit to Charlie for the following env configuration for Macos
+credit to Charlie for the following env configuration for ARM
 
 # Introduction
 Instructions for installing [`openeb-4.5.2`](https://docs.prophesee.ai/stable/installation/linux_openeb.html) on an `arm64` Mac. Does not install ML modules (yet).
